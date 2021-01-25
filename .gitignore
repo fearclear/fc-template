@@ -1,0 +1,58 @@
+############################## Tmp  ################################
+*.log
+*.diff
+*.patch
+*.tmp
+*.swap
+*.swp
+*.swo
+*.swn
+*.bk
+*.bak
+logs/
+log/
+
+############################# Other #################################
+.user*
+*.pdb
+*.db
+*.opendb
+*.autosave
+*.stash
+Makefile.*
+
+############################## MacOS  ##############################
+.DS_Store
+._.DS_Store
+Thumbs.db
+
+############################## IDE    ##############################
+.vscode/
+
+*.vs
+
+# Comment next line if keeping position of elements in Navigation Editor is relevant for you
+.idea/navEditor.xml
+
+.settings/
+.project/
+.classpath
+
+cmake-build-debug
+cmake-build-release
+
+############################## Out  ################################
+bin/
+gen/
+out/
+target/
+dist/
+[Dd]ebug/
+[Rr]elease/
+generated/
+
+
+node_modules/
+
+# 项目文件
+miniprogram_npm/

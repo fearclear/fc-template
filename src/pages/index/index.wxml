@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view>
+  123 {{t('hello')}}
+  <text class="" selectable="false" space="false" decode="false">
+    {{$.a}}
+  </text>
+  <test />
+  <text>{{a}}</text>
+</view>

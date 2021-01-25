@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Your project name",
+  "usingComponents": {
+    "test": "../../components/test"
+  },
+  "disableScroll": true
+}
